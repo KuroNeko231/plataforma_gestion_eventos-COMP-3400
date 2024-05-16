@@ -1,6 +1,6 @@
 # plataforma_de_gestion_de_eventos
 Código de la base de datos
-- Alan J Cajigas Arroyo - [https://github.com/KuroNeko231/plataforma_de_gestion_de_eventos.git](https://github.com/KuroNeko231/plataforma_de_gestion_de_eventos.git)
+- Alan J Cajigas Arroyo - [https://github.com/KuroNeko231/plataforma_gestion_eventos-COMP-3400.git](https://github.com/KuroNeko231/plataforma_gestion_eventos-COMP-3400.git)
 - 
 Código del backend
 - Jonathan Ruiz Velazquez - [https://github.com/KuroNeko231/plataforma_de_gestion_de_eventos.git](https://github.com/KuroNeko231/plataforma_de_gestion_de_eventos.git)
